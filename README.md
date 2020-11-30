@@ -1,2 +1,2 @@
-# eneskt.github.io
-Personal Website With ReactJs
+# Personal Website With ReactJs
+Using TypeItJs :)
