@@ -10,7 +10,7 @@ body {
   height: fit-content;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 8%;
+  margin-top: 6%;
 }
 
 .bar {
@@ -43,7 +43,7 @@ body {
   color: #ddd;
   font-size: 30px;
   word-spacing: 0px;
-  cursor: alias;
+  cursor: default;
   border-radius: 0 0 5px 5px;
   overflow-y: auto;
   background-color: #545650;
@@ -54,7 +54,7 @@ body {
   list-style-type: none;
   list-style: none;
   color: #76eb15;
-  cursor: all-scroll;
+  cursor: pointer;
 }
 
 .screen i {
