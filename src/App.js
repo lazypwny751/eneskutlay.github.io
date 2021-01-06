@@ -35,7 +35,7 @@ export default function App() {
               .break()
               .break()
               .type(
-                "İf you wonder about me ?<br> <a href='https://github.com/eneskt' target=_blank>GitHub Page</a> <br> <a href='https://www.linkedin.com/in/enes-kutlay-4038b01a0/' target=_blank>LinkedIn Profile </a> <br> <a href='https://twitter.com/eneskt01' target=_blank>Twitter Profile <br> <a href='https://enes-kt.medium.com/' target=_blank>Medium Blog Page</a></a>"
+                "İf you wonder about me ?<br> <a href='https://github.com/eneskt' target=_blank>GitHub Page</a> <br> <a href='https://www.linkedin.com/in/enes-kutlay-4038b01a0/' target=_blank>LinkedIn Profile </a> <br> <a href='https://twitter.com/eneskt01' target=_blank>Twitter Profile <br> <a href='https://eneskutlay.medium.com/' target=_blank>Medium Blog Page</a></a>"
               )
               .break()
               .break()
