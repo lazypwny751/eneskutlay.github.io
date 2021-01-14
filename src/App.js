@@ -16,7 +16,7 @@ export default function App() {
           getBeforeInit={(instance) => {
             instance
               .break()
-              .type("Hey... Hello sir 👋 ", { delay: 200 })
+              .type("Hey... Hello everyone 👋 ", { delay: 200 })
               .pause(500)
               .break({ delay: 500 })
               .type("<strong> I'm Enes. </strong>")
