@@ -30,12 +30,12 @@ export default function App() {
               .break()
               .break()
               .type(
-                "İf you want to contact me ?<br> <a href='mailto:eneskt1@hotmail.com'>eneskt1@hotmail.com</a> <i> you can disturb me 👌</i>"
+                "If you want to contact me ?<br> <a href='mailto:eneskt1@hotmail.com'>eneskt1@hotmail.com</a> <i> you can disturb me 👌</i>"
               )
               .break()
               .break()
               .type(
-                "İf you wonder about me ?<br> <a href='https://github.com/eneskt' target=_blank>GitHub Page</a> <br> <a href='https://www.linkedin.com/in/eneskutlay/' target=_blank>LinkedIn Profile </a> <br> <a href='https://twitter.com/eneskt01' target=_blank>Twitter Profile <br> <a href='https://eneskutlay.medium.com/' target=_blank>Medium Blog Page</a></a>"
+                "If you wonder about me ?<br> <a href='https://github.com/eneskt' target=_blank>GitHub Page</a> <br> <a href='https://www.linkedin.com/in/eneskutlay/' target=_blank>LinkedIn Profile </a> <br> <a href='https://twitter.com/eneskt01' target=_blank>Twitter Profile <br> <a href='https://eneskutlay.medium.com/' target=_blank>Medium Blog Page</a></a>"
               )
               .break()
               .break()
