@@ -4,9 +4,8 @@ This my personal website. I used [TypeIt](https://typeitjs.com/) and [React](htt
 
 ## Installation & Usage
 
-Download the repository to your local.First `$ npm install` and then run the project with the `$ npm start` This Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
+Download the repository to your local. First, install the necessary files with `$ npm install`. Then run the project with `$ npm start`. This runs the application in development mode.
+Open [http://localhost:3000](http://localhost:3000) to project view it in the browser
 
 ## Replacement and Reuse
-The homepage tag in the `package.json` file and then [this npm package](https://www.npmjs.com/package/gh-pages) needs to be tracked.
-
-
+Change the homepage tag in the `package.json` file and then follow [this npm package](https://www.npmjs.com/package/gh-pages)
